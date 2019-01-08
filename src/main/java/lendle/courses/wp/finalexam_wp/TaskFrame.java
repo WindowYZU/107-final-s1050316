@@ -107,6 +107,7 @@ public class TaskFrame extends JInternalFrame {
                                 JOptionPane.showMessageDialog(frame1, "You click cancel");
                             }
                         }
+                        
                     });
                          
                     /////////////////////////////////////////////
